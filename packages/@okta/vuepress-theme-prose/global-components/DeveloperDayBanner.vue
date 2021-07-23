@@ -16,7 +16,7 @@
                 developer-day-banner--header-no-margin-large
               "
             >
-              Okta + Auth0 DeveloperDay 2021
+              Developer Day
             </h2>
             <h2
               class="
@@ -24,7 +24,7 @@
                 developer-day-banner--header-no-margin-small
               "
             >
-              DeveloperDay 2021
+              Developer Day
             </h2>
             <div class="developer-day-banner--cta">
               <span class="developer-day-banner--cta-large">
